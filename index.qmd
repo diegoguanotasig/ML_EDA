@@ -1,7 +1,7 @@
 ---
 title: "PRIMER REPORTE EN QUARTO"
 author: "Diego Guanotasig"
-date: "26-09-25"
+date: "19-09-26"
 format: html
 jupyter: python3
 ---
